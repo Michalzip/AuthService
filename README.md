@@ -10,8 +10,6 @@ the project uses the modular monolith design pattern and this project is intende
 
 ## Prerequisites
 
-follow a few steps to run the project
-
 <b>Integration With Providers</b>
 
 first, go to the websites https://developers.facebook.com/apps, https://console.cloud.google.com, create an applications and add a redirect address named: </br>
