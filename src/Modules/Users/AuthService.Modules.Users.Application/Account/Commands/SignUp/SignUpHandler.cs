@@ -1,4 +1,3 @@
-using AuthService.Modules.Core.Sender;
 using AuthService.Modules.Core.Services;
 using AuthService.Modules.Users.Core.Exceptions;
 
